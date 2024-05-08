@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1009953740201",
+    "project_id": "sabrosura-p013u8",
+    "storage_bucket": "sabrosura-p013u8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1009953740201:android:14141aa2109ca0f037e0b8",
+        "android_client_info": {
+          "package_name": "com.mycompany.sabrosura"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhGDBrJ5P-8vziaDvBtbmSR7un6tgjhX8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
